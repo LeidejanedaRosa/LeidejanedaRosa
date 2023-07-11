@@ -13,7 +13,7 @@ Estou migrando de Gestão de Negócios para Programação. Um mundo novo de ling
 
 <p align="center">
         <samp>
-          [ Estudante do curso Desenvolvimento de Software Full Stack na <b> Cubos Academy </b> ]
+          [ Formada em Desenvolvimento de Software Full Stack pela <b> Cubos Academy </b> ]
                 <br>
           [ Graduada em Gestão de Negócios pela <b> Universidade Brás Bubas</b> ]
                 <br>
