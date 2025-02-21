@@ -9,7 +9,7 @@
 
 # 🎯 Sobre Mim
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img align="left"; alt="capa" width="20%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nTaDIXXLFMGvwiyKxDxC5Q.jpeg"/>
+  <img src="https://drive.google.com/thumbnail?id=1TNHM4vIetk7V7DVh9eGQIbRR-VnaAgDg" align="left"; alt="capa" width="20%"/>
   <div  align="center">
 
 </br>
