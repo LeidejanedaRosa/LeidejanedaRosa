@@ -9,21 +9,37 @@
 
 # 🎯 Sobre Mim
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://drive.google.com/uc?export=view&id=12ITvJn6hFQIJmqqKy6nSAw-NYZuzNnTK" align="left"; alt="capa" width="20%"/>
-  <div  align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1MXA6XyuYBiHiE0BcB6A-Q_2REF7_x-67" align="left"; alt="capa" width="50%"/>
+  <div  align="start">
 
-</br>
-</br>
+  </br>
+  </br>
+  </br>
   <samp>
-  Olá! Sou uma desenvolvedora full stack apaixonada por tecnologia e aprendizado contínuo. 
-  Gosto de trabalhar em equipe, colaborando de forma eficiente e mantendo uma comunicação clara para alcançar os melhores resultados. 
-  Estou sempre em busca de novos desafios e de como posso contribuir para o sucesso da equipe.
+  Sou desenvolvedora full stack fascinada pela tecnologia e por aprendizado contínuo.  
+  Tenho experiência em criar soluções eficientes e acessíveis, sempre seguindo boas práticas como SOLID e Clean Code.  
+  
+  Acredito no poder da colaboração: gosto de trabalhar em equipe, manter uma comunicação clara e compartilhar conhecimento.  
+  Estou sempre em busca de novos desafios que me permitam crescer e contribuir para o sucesso coletivo.
+
+  </br>
+  </br>
+    
+  ### 🔧 Principais interesses
+- Desenvolvimento web  
+- Acessibilidade  
+- Boas práticas de código  
+- Arquitetura de software
+- Testes automatizados
+
+### 🌱 Atualmente aprendendo
+- *DevOps*
+- *Microsoft Azure e Copilot*
+- *NestJS, Next.js e PrismaORM*
 </samp>
 
   </div>
 </div>
-</br>
-</br>
 </br>
 </br>
 
