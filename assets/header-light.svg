@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260" role="img" aria-labelledby="title desc">
+  <title id="title">Leidejane da Rosa — Desenvolvedora Full-Stack</title>
+  <desc id="desc">Banner com o nome e um diagrama de três camadas conectadas: front-end, back-end e dados.</desc>
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+    .sans { font-family: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+    .fg { fill: #0F172A; }
+    .muted { fill: #475569; }
+    .accent { fill: #0369A1; }
+    .line { stroke: #0369A1; }
+    .box { fill: #FFFFFF; stroke: #CBD5E1; }
+    .flow { stroke-dasharray: 4 4; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -8; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="800" height="260" rx="12"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="800" height="260" fill="#F8FAFC"/>
+    <rect width="800" height="260" fill="url(#grid)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="799" height="259" rx="12" fill="none" stroke="#CBD5E1"/>
+
+  <text x="48" y="88" class="mono accent" font-size="13" font-weight="700" letter-spacing="3">OLÁ, EU SOU</text>
+  <path d="M48 96v10M48 101h64M112 96v10" fill="none" class="line" stroke-width="1.5"/>
+  <text x="48" y="154" class="mono fg" font-size="42" font-weight="700">Leidejane da Rosa</text>
+  <text x="48" y="188" class="sans muted" font-size="19" font-weight="500">Desenvolvedora Full-Stack</text>
+  <text x="48" y="214" class="mono muted" font-size="13">São Lourenço, MG · Brasil</text>
+
+  <g fill="none" class="line" stroke-width="1.5">
+    <path class="flow" d="M662 88v16M662 156v16"/>
+  </g>
+  <g class="box" stroke-width="1">
+    <rect x="572" y="36" width="180" height="52" rx="8"/>
+    <rect x="572" y="104" width="180" height="52" rx="8"/>
+    <rect x="572" y="172" width="180" height="52" rx="8"/>
+  </g>
+  <g class="accent">
+    <circle cx="662" cy="88" r="3"/>
+    <circle cx="662" cy="104" r="3"/>
+    <circle cx="662" cy="156" r="3"/>
+    <circle cx="662" cy="172" r="3"/>
+  </g>
+  <g class="mono fg" font-size="14" font-weight="700">
+    <text x="588" y="59">front-end</text>
+    <text x="588" y="127">back-end</text>
+    <text x="588" y="195">dados</text>
+  </g>
+  <g class="mono muted" font-size="11">
+    <text x="588" y="77">React · TypeScript</text>
+    <text x="588" y="145">Node.js · Python</text>
+    <text x="588" y="213">PostgreSQL · MongoDB</text>
+  </g>
+</svg>
