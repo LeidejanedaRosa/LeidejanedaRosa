@@ -80,7 +80,7 @@ que levo para o código.
 | --- | --- | --- |
 | 2026 – 2030 | Bacharelado em Engenharia de Software (cursando) | UNICIVE |
 | 2025 – atual | Desenvolvedora freelancer | Projetos próprios e de impacto social |
-| 2025 – atual | Desenvolvedora full-stack voluntária | [SouJunior](https://github.com/SouJunior) |
+| 2025 | Desenvolvedora full-stack voluntária | [SouJunior](https://github.com/SouJunior) |
 | 2023 – 2025 | Desenvolvedora full-stack | Clarke Energia |
 | 2024 | Monitora do curso de Desenvolvimento de Software Full Stack | Cubos Academy |
 | 2022 – 2023 | Formação em Desenvolvimento de Software Full Stack | Cubos Academy |
