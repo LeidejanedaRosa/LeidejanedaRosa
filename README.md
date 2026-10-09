@@ -1,85 +1,100 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-light.svg" width="800" alt="Leidejane da Rosa — Desenvolvedora Full-Stack">
+  </picture>
+</h1>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+sou+Leidejane%2C+desenvolvedora+full+stack.;Sejam+bem-vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
-  
-<div style="order: 1; margin: 0 0 0 0; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=50&pause=1000&color=FFFFFF&center=true&multiline=true&repeat=false&width=1000&height=200&lines=+;%22A+%C3%BAnica+maneira+de+ir+r%C3%A1pido+%C3%A9+ir+bem.%22;%E2%80%93+Robert+C.+Martin." 
-  alt='"A única maneira de ir rápido é ir bem." – Robert C. Martin' />
-</div>
+<p align="center">
+  Construo software com foco em <strong>arquitetura</strong>, <strong>acessibilidade</strong> e <strong>boas práticas</strong>,<br>
+  do front-end em React e TypeScript ao back-end em Node.js e Python.
+</p>
 
+<p align="center">
+  <a href="https://leidejanedarosa.dev.br/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/leidejane/">LinkedIn</a> ·
+  <a href="mailto:leidejanedarosa.81@gmail.com">E-mail</a> ·
+  <a href="https://leidejanedarosa.dev.br/leidejane-da-rosa-curriculo.pdf">Currículo (PDF)</a>
+</p>
 
-# 🎯 Sobre Mim
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://drive.google.com/uc?export=view&id=1MXA6XyuYBiHiE0BcB6A-Q_2REF7_x-67" align="left"; alt="capa" width="50%"/>
-  <div  align="start">
+## Sobre
 
-  </br>
-  </br>
-  </br>
-  <samp>
-  Sou desenvolvedora full stack fascinada pela tecnologia e por aprendizado contínuo.  
-  Tenho experiência em criar soluções eficientes e acessíveis, sempre seguindo boas práticas como SOLID e Clean Code.  
-  
-  Acredito no poder da colaboração: gosto de trabalhar em equipe, manter uma comunicação clara e compartilhar conhecimento.  
-  Estou sempre em busca de novos desafios que me permitam crescer e contribuir para o sucesso coletivo.
+Sou desenvolvedora full-stack e curso o Bacharelado em Engenharia de Software. Passei quase dois
+anos na **Clarke Energia** atuando de ponta a ponta: componentes React no Design System, testes
+automatizados e APIs em Python/Flask. Hoje trabalho como freelancer em projetos próprios e de
+impacto social.
 
-  </br>
-  </br>
-    
-  ### 🔧 Principais interesses
-- Desenvolvimento web  
-- Acessibilidade  
-- Boas práticas de código  
-- Arquitetura de software
-- Testes automatizados
+Minha história com tecnologia começou no Técnico em Informática, em 1997. Antes de voltar para a
+área, toquei meu próprio negócio por sete anos — é de lá que vem a visão de produto e de cliente
+que levo para o código.
 
-### 🌱 Atualmente aprendendo
-- *DevOps*
-- *Microsoft Azure e Copilot*
-- *NestJS, Next.js e PrismaORM*
-</samp>
+> **Aberta a oportunidades:** busco uma posição plena, remota.
 
-  </div>
-</div>
-</br>
-</br>
+## Projetos em destaque
 
-## 🛠️ Tecnologias e Ferramentas
+- **Faladoria** — [site](https://faladoria-web.vercel.app/) · [código](https://github.com/LeidejanedaRosa/faladoria-web)<br>
+  Plataforma de mediação entre usuários do SUS e gestores públicos de saúde, com atendimento via WhatsApp. Front-end WCAG 2.2 AA com testes unitários, e2e e Lighthouse CI no pipeline; back-end (privado) integrado à Meta Cloud API.<br>
+  `React 19` `TypeScript` `Fastify` `MongoDB` `Playwright` `Sentry`
 
-- **Backend:**
+- **FCR Certificados** — [verificador](https://validar-certificado.fcrcursosetreinamentos.com.br/)<br>
+  Geração de certificados em lote a partir de CSV, com QR Code de verificação. API em Clean Architecture e verificador offline-first, sem framework. Código privado.<br>
+  `Python` `Flask` `MongoDB` `JavaScript` `Jest`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoEngine](https://img.shields.io/badge/MongoEngine-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+- **EMR International** — [site](https://landing-page-emr-international.vercel.app/) · [código](https://github.com/LeidejanedaRosa/landing-page-emr-international-frontend)<br>
+  Landing page de treinamentos de atendimento pré-hospitalar tático. PWA com navegação completa por teclado e monitoramento de erros.<br>
+  `React 19` `Vite` `Tailwind CSS` `Workbox` `Sentry`
 
-- **Frontend:**
+- **Espaço Saúde e Bem-Estar** — [site](https://landing-espaco-saude-bemestar.vercel.app) · [código](https://github.com/LeidejanedaRosa/landing-espaco-saude-bemestar)<br>
+  Site institucional responsivo e acessível para um espaço de bem-estar.<br>
+  `TypeScript` `Vite` `Tailwind CSS`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-- **DevOps:**
+- **react-vite-template** — [código](https://github.com/LeidejanedaRosa/react-vite-template)<br>
+  Meu ponto de partida para projetos React: testes unitários e e2e, acessibilidade, SEO, git hooks e CI prontos desde o primeiro commit.<br>
+  `React` `Vite` `Vitest` `Playwright` `Husky`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-</br>
-</br>
-</br>
-</br>
+- **Portfólio** — [site](https://leidejanedarosa.dev.br/) · [código](https://github.com/LeidejanedaRosa/portfolio)<br>
+  Onde conto minha trajetória e detalho cada projeto desta lista.<br>
+  `React 19` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-## 📬 Entre em contato comigo 👇
+## Stack
 
-<a href="https://instagram.com/leidejanedarosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-<a href="https://discord.gg/leidejane#3704" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:leidejanedarosa.81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leidejane-da-rosa-a98544205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+| Camada | Tecnologias |
+| --- | --- |
+| **Front-end** | `React` `TypeScript` `Tailwind CSS` `styled-components` `Zod` |
+| **Back-end** | `Node.js` `Express` `Fastify` `Python` `Flask` `Celery` |
+| **Dados** | `PostgreSQL` `MongoDB` `Redis` |
+| **Qualidade e entrega** | `Vitest` `Jest` `Pytest` `Playwright` `Cypress` `Storybook` `GitHub Actions` `Docker` `Sentry` |
+
+## Como eu trabalho
+
+- **Arquitetura proporcional ao problema.** Uma landing page não precisa de DDD; um back-end com regra de negócio complexa precisa.
+- **Teste valida regra de negócio.** Cobertura alta sem asserção que importa não conta.
+- **Acessibilidade desde o primeiro componente.** HTML semântico, navegação por teclado e WCAG como requisito, não como retoque.
+- **Qualidade automatizada.** Lint, testes, auditoria de dependências e Lighthouse rodando no CI antes da primeira feature.
+- **Decisão documentada.** Backlog, decisões de arquitetura e aprendizados ficam no repositório.
+
+## Trajetória
+
+| Período | Atuação | Onde |
+| --- | --- | --- |
+| 2026 – 2030 | Bacharelado em Engenharia de Software (cursando) | UNICIVE |
+| 2025 – atual | Desenvolvedora freelancer | Projetos próprios e de impacto social |
+| 2025 – atual | Desenvolvedora full-stack voluntária | [SouJunior](https://github.com/SouJunior) |
+| 2023 – 2025 | Desenvolvedora full-stack | Clarke Energia |
+| 2024 | Monitora do curso de Desenvolvimento de Software Full Stack | Cubos Academy |
+| 2022 – 2023 | Formação em Desenvolvimento de Software Full Stack | Cubos Academy |
+| 2013 – 2020 | Empreendedora | Estação Festas |
+
+## Estudando agora
+
+Arquitetura de software, DDD, Clean Architecture e TDD — além dos fundamentos de engenharia que
+sustentam tudo isso: dados, concorrência, sistemas distribuídos e resiliência.
+
+## Contato
+
+O melhor caminho é o [LinkedIn](https://www.linkedin.com/in/leidejane/) ou o e-mail
+[leidejanedarosa.81@gmail.com](mailto:leidejanedarosa.81@gmail.com). Os detalhes de cada projeto
+estão no [portfólio](https://leidejanedarosa.dev.br/).
+
+<p align="center"><sub><em>“A única maneira de ir rápido é ir bem.”</em> — Robert C. Martin</sub></p>
