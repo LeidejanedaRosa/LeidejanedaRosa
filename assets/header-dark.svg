@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260" role="img" aria-labelledby="title desc">
-  <title id="title">Leidejane da Rosa — Desenvolvedora Full-Stack</title>
+  <title id="title">Leidejane da Rosa — Desenvolvedora Full Stack</title>
   <desc id="desc">Banner com o nome e um diagrama de três camadas conectadas: front-end, back-end e dados.</desc>
   <style>
     .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
@@ -29,7 +29,7 @@
   <text x="48" y="88" class="mono accent" font-size="13" font-weight="700" letter-spacing="3">OLÁ, EU SOU</text>
   <path d="M48 96v10M48 101h64M112 96v10" fill="none" class="line" stroke-width="1.5"/>
   <text x="48" y="154" class="mono fg" font-size="42" font-weight="700">Leidejane da Rosa</text>
-  <text x="48" y="188" class="sans muted" font-size="19" font-weight="500">Desenvolvedora Full-Stack</text>
+  <text x="48" y="188" class="sans muted" font-size="19" font-weight="500">Desenvolvedora Full Stack</text>
   <text x="48" y="214" class="mono muted" font-size="13">São Lourenço, MG · Brasil</text>
 
   <g fill="none" class="line" stroke-width="1.5">
