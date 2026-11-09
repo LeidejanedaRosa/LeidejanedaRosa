@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header-light.svg" width="800" alt="Leidejane da Rosa — Desenvolvedora Full-Stack">
+    <img src="assets/header-light.svg" width="800" alt="Leidejane da Rosa — Desenvolvedora Full Stack">
   </picture>
 </h1>
 
@@ -20,10 +20,10 @@
 
 ## Sobre
 
-Sou desenvolvedora full-stack e curso o Bacharelado em Engenharia de Software. Passei quase dois
+Sou desenvolvedora full stack e curso o Bacharelado em Engenharia de Software. Passei quase dois
 anos na **Clarke Energia** atuando de ponta a ponta: componentes React no Design System, testes
-automatizados e APIs em Python/Flask. Hoje trabalho como freelancer em projetos próprios e de
-impacto social.
+automatizados e APIs em Python/Flask. Hoje atuo como desenvolvedora autônoma para clientes e, como
+voluntária, construo a **Faladoria**, uma plataforma de mediação para usuários do SUS.
 
 Minha história com tecnologia começou no Técnico em Informática, em 1997. Antes de voltar para a
 área, toquei meu próprio negócio por sete anos — é de lá que vem a visão de produto e de cliente
@@ -34,7 +34,7 @@ que levo para o código.
 ## Projetos em destaque
 
 - **Faladoria** — [site](https://faladoria-web.vercel.app/) · [código](https://github.com/LeidejanedaRosa/faladoria-web)<br>
-  Plataforma de mediação entre usuários do SUS e gestores públicos de saúde, com atendimento via WhatsApp. Front-end WCAG 2.2 AA com testes unitários, e2e e Lighthouse CI no pipeline; back-end (privado) integrado à Meta Cloud API.<br>
+  Projeto voluntário: plataforma de mediação entre usuários do SUS e gestores públicos de saúde, com atendimento via WhatsApp. Front-end WCAG 2.2 AA com testes unitários, e2e e Lighthouse CI no pipeline; back-end (privado) integrado à Meta Cloud API.<br>
   `React 19` `TypeScript` `Fastify` `MongoDB` `Playwright` `Sentry`
 
 - **FCR Certificados** — [verificador](https://validar-certificado.fcrcursosetreinamentos.com.br/)<br>
@@ -79,17 +79,20 @@ que levo para o código.
 | Período | Atuação | Onde |
 | --- | --- | --- |
 | 2026 – 2030 | Bacharelado em Engenharia de Software (cursando) | UNICIVE |
-| 2025 – atual | Desenvolvedora freelancer | Projetos próprios e de impacto social |
-| 2025 | Desenvolvedora full-stack voluntária | [SouJunior](https://github.com/SouJunior) |
-| 2023 – 2025 | Desenvolvedora full-stack | Clarke Energia |
-| 2024 | Monitora do curso de Desenvolvimento de Software Full Stack | Cubos Academy |
-| 2022 – 2023 | Formação em Desenvolvimento de Software Full Stack | Cubos Academy |
-| 2013 – 2020 | Empreendedora | Estação Festas |
+| 2025 – atual | Desenvolvedora Full Stack voluntária | Faladoria |
+| 2025 – atual | Desenvolvedora Full Stack autônoma | Clientes: EMR International e FCR |
+| 2025 | Desenvolvedora Full Stack voluntária | [SouJunior](https://github.com/SouJunior) |
+| 2024 | Monitora de Desenvolvimento | Cubos Academy |
+| 2023 – 2025 | Desenvolvedora Full Stack | Clarke Energia |
+| 2022 – 2023 | Formação em Desenvolvimento de Software (960 h) | Cubos Academy |
+| 2013 – 2020 | Proprietária e gestora | Estação Festas Infantis |
 
 ## Estudando agora
 
-Arquitetura de software, DDD, Clean Architecture e TDD — além dos fundamentos de engenharia que
-sustentam tudo isso: dados, concorrência, sistemas distribuídos e resiliência.
+- **Computação em nuvem** na Escola da Nuvem (AWS re/Start), rumo à certificação AWS Certified
+  Cloud Practitioner.
+- **Arquitetura de software**, DDD, Clean Architecture e TDD — além dos fundamentos de engenharia
+  que sustentam tudo isso: dados, concorrência, sistemas distribuídos e resiliência.
 
 ## Contato
 
